@@ -1,2 +1,5 @@
-# Read-Radar-rainbow
- 
+# Plotting Reflectivity Radar
+
+Environment :
+    - wradlib
+    - cartopy
